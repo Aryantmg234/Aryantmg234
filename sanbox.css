@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+section{
+    background:#223AE8;
+}
+
+/* For body seciton close */
+
+/* ------------------------------------------------About Navbar------------------------------------------------------------------ */
+#navbar{
+    background-color:#3c3e44;
+    position:sticky;
+    
+}
+
+#sign1{
+    border-radius:40px;
+    padding-right:2rem;
+    padding-left:2rem;
+    background-image:linear-gradient(to bottom, rgb(223, 21, 223), rgb(181, 62, 250));
+    border:0;
+    outline:0;
+}
+
+/* For navbar hover effect */
+.bar:hover{
+    background:rgb(156, 156, 155);
+    border-radius:10px;
+}
+
+
