@@ -1,6 +1,6 @@
 <img  width="100%" height="auto" src="https://media4.giphy.com/media/1oF1KAEYvmXBMo6uTS/giphy.gif?cid=6c09b952p5mjdzpy8644vmgi37lz3jd5dtracdpdgobwv2gi&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g ">
 <h1 align="center">Hi 👋, I'm Aryan Tamang</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Website developer from Nepal</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryantmg234&label=Profile%20views&color=0e75b6&style=flat" alt="aryantmg234" /> </p>
 
